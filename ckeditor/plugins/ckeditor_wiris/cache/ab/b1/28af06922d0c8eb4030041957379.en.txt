@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator begin display style 3 over 2 end style over denominator 6 end fraction equals square root of x"},"status":"ok"}
